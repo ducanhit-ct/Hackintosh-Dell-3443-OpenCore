@@ -70,8 +70,10 @@ Not working at the moment
 - [ ] Handoff
 - [ ] Sidecar
 - [ ] Trackpad
+- [ ] dGPU (Disabled)
 
 Not tested
+
   Etc
   
 # Screenshot
