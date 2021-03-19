@@ -62,7 +62,6 @@ Working
 - [x] HDMI Audio
 - [x] iMessage, Facetime
 - [x] All Port USB 2.0 and USB 3.0
-  Etc
  
 Not working at the moment
 
@@ -73,8 +72,6 @@ Not working at the moment
 - [ ] dGPU (Disabled)
 
 Not tested
-
-  Etc
   
 # Screenshot
 
