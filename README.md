@@ -58,7 +58,7 @@ Working
 - [x] CPU Power Management
 - [x] Ethernet Realtek RTL8100
 - [x] Audio Jack (Realtek ALC 255)
-- [x] Wifi, Bluetooth
+- [x] Wifi
 - [x] HDMI Audio
 - [x] iMessage, Facetime
 - [x] All Port USB 2.0 and USB 3.0
